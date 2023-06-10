@@ -1,4 +1,4 @@
-//Given a string S. The task is to print all unique permutations of the given string in lexicographically sorted order.
+//Given a string S. The task is to print all permutations of the given string in lexicographically sorted order.
 class Solution
 
 
